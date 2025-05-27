@@ -31,8 +31,6 @@ wget https://raw.githubusercontent.com/wso-shell-php/.github/refs/heads/main/wso
 > ⚠️ **Disclaimer**: This tool is intended for educational and ethical use only. Unauthorized access to systems is illegal.
 ---
 
-![WSO Shell Screenshot](https://github.com/wso-shell-php/.github/blob/main/wso-main.png)
-
 ## ⭐ Key Features
 
 - **Advanced File Manager**: Upload, edit, rename, compress, and extract files.
@@ -52,6 +50,8 @@ wget https://raw.githubusercontent.com/wso-shell-php/.github/refs/heads/main/wso
 - Useful for learning about web server structure and PHP behavior.
 
 ---
+
+![WSO Shell Screenshot](https://github.com/wso-shell-php/.github/blob/main/wso-main.png)
 
 ## 🛡️ Legal and Ethical Use
 
