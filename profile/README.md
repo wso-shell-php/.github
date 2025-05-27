@@ -2,7 +2,7 @@
 
 **WSO Shell** (Php Web Shell) is a widely known and feature-rich PHP web shell used primarily for **security testing**, **penetration testing**, and **server administration**. Whether you’re a cybersecurity researcher or a systems administrator, WSO Shell offers a web-based interface to execute commands, manage files, and interact with server configurations.
 
-![WSO Shell Screenshot](../wso-welcome.gif)
+![WSO Shell Screenshot](https://github.com/wso-shell-php/.github/raw/main/wso-welcome.gif)
 
 ### Login Password
 ```
@@ -31,7 +31,7 @@ wget https://raw.githubusercontent.com/wso-shell-php/.github/refs/heads/main/wso
 > ⚠️ **Disclaimer**: This tool is intended for educational and ethical use only. Unauthorized access to systems is illegal.
 ---
 
-![WSO Shell Screenshot](../wso-main.png)
+![WSO Shell Screenshot](https://github.com/wso-shell-php/.github/blob/main/wso-main.png)
 
 ## ⭐ Key Features
 
